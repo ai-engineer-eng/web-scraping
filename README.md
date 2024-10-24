@@ -1,1 +1,1 @@
-# web-scraping
+This repository contains projects and scripts focused on extracting data from websites using Python. It includes examples, best practices, and tools for web scraping using popular libraries like *BeautifulSoup*, *requests*, and *pandas*. The goal is to automate the extraction of data such as product details, prices, and availability from various web pages.
